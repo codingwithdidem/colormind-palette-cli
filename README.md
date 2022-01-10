@@ -9,7 +9,7 @@ While we can generate a complete random palette for you, you can also give us so
 
 Install `colormind-magic-palette` with npm
 
-// Globally
+### Global Usage
 
 ```bash
   npm install -g colormind-magic-palette
@@ -18,7 +18,7 @@ Install `colormind-magic-palette` with npm
 
 ![alt text](https://github.com/codingwithdidem/colormind-palette-cli/blob/master/cli.png?raw=true)
 
-// Usage Locally
+### Local Usage
 
 ```bash
   npm install colormind-magic-palette
