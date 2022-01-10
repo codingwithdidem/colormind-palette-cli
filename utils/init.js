@@ -5,7 +5,7 @@ const unhandled = require('cli-handle-unhandled');
 module.exports = ({ clear = true }) => {
 	unhandled();
 	welcome({
-		title: `palette-generator`,
+		title: `colormind-magic-palette`,
 		tagLine: `by codingwithdidem`,
 		description: pkg.description,
 		version: pkg.version,
