@@ -5,7 +5,6 @@ While we can generate a complete random palette for you, you can also give us so
 
 'N' means random. If you have a color of choice in your mind don't hesitate to provide one.
 
-
 ## Installation
 
 Install `colormind-magic-palette` with npm
@@ -17,11 +16,13 @@ Install `colormind-magic-palette` with npm
   palette
 ```
 
+![alt text](https://github.com/codingwithdidem/colormind-palette-cli/blob/master/cli.png?raw=true)
+
 // Usage Locally
 
 ```bash
   npm install colormind-magic-palette
-  
+
   const colormind = require('colormind-magic-palette');
 
   const main = async () => {
@@ -32,5 +33,5 @@ Install `colormind-magic-palette` with npm
   };
 
   main();
- 
+
 ```
