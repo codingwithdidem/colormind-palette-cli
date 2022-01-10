@@ -1,7 +1,7 @@
 {
 	"name": "colormind-magic-palette",
 	"description": "Generates a palette of colors. Using Colormind's API.",
-	"version": "0.0.1",
+	"version": "0.0.5",
 	"license": "MIT",
 	"bin": {
 		"magic": "index.js",
@@ -20,6 +20,7 @@
 	],
 	"files": [
 		"index.js",
+		"local.js",
 		"utils",
 		"helpers"
 	],
