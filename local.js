@@ -1,4 +1,4 @@
-const getPalette = require('./get-palette')
+const getPalette = require('./helpers/get-palette')
 const settings = require('./helpers/default-settings')
 const hexToRgb = require('./helpers/hexToRgb')
 
