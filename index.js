@@ -86,4 +86,6 @@ const { clear, debug } = flags;
 			.map(color => `\t${chalk.bgHex(color).bold(color)}`)
 			.join(`\n`)}`
 	);
+
+	return palette;
 })();

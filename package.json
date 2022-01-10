@@ -1,10 +1,10 @@
 {
-	"name": "palette-generator",
-	"description": "Generates a palette of colors.",
+	"name": "colormind-magic-palette",
+	"description": "Generates a palette of colors. Using Colormind's API.",
 	"version": "0.0.1",
 	"license": "MIT",
 	"bin": {
-		"palette-generator": "index.js",
+		"magic": "index.js",
 		"palette": "index.js"
 	},
 	"author": {
@@ -14,11 +14,14 @@
 	},
 	"keywords": [
 		"palette-generator",
-		"codingwithdidem"
+		"codingwithdidem",
+		"magic",
+		"palette"
 	],
 	"files": [
 		"index.js",
-		"utils"
+		"utils",
+		"helpers"
 	],
 	"scripts": {
 		"format": "prettier --write \"./**/*.{js,json}\""
