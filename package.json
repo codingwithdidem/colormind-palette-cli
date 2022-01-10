@@ -1,7 +1,7 @@
 {
 	"name": "colormind-magic-palette",
 	"description": "Generates a palette of colors. Using Colormind's API.",
-	"version": "0.0.6",
+	"version": "0.0.7",
 	"license": "MIT",
 	"bin": {
 		"magic": "index.js",
@@ -32,6 +32,7 @@
 		"cli-meow-help": "^2.0.2",
 		"cli-welcome": "^2.2.2",
 		"clipboardy": "^1.2.3",
+		"colormind-magic-palette": "^0.0.7",
 		"inquirer": "^8.2.0",
 		"listr": "^0.14.3",
 		"meow": "^9.0.0"
